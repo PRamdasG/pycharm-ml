@@ -28,3 +28,5 @@ plt.show()
 # The mean squared error:  0.18010302594522304
 # Weights:  [0.40414592]
 # Intercepts:  -0.5944587489785538
+
+#we are willing to push sometinh
